@@ -12,4 +12,21 @@ Ans-a,c,d are invalid because, The above listed are invalid because variable can
  (d)None of the above
 Ans-b,This function displays the names of all variables, data frames, and functions currently stored in the user's workspace
 
-(3)
+(3)What is the output of following code?
+x=10+5%%3
+print(typeof(x))
+(a)double (b)int (c)list (d)None
+Ans-a
+
+(4)The command to check if a value is of numeric data type is ____.
+ (a)typeof()
+ (b)is.numeric()
+ (c)as.numeric()
+ (d)None of the above
+Ans-b
+
+(5)What is the output of following code?
+A=matrix(c(9:1),3,3)
+print(A[3,2])
+(a)6 (b)4 (c)2 (d)8
+Ans-4
