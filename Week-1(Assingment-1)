@@ -1,0 +1,15 @@
+(1)Which of the following variable names are INVALID in R?
+ (a)1_variable
+ (b)variable_1
+ (c)_variable
+ (d)variable@
+Ans-a,c,d are invalid because, The above listed are invalid because variable cannot be start with the numbers, special characters and symbols. Hence Variable_1 is valid variable.
+
+(2)The function ls() in R will
+ (a)set a new working directory path
+ (b)list all objects in our working environment
+ (c)display the path to our working directory
+ (d)None of the above
+Ans-b,This function displays the names of all variables, data frames, and functions currently stored in the user's workspace
+
+(3)
